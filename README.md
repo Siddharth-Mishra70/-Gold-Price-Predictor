@@ -22,18 +22,8 @@ A **command-line machine learning project** that predicts future gold prices and
 
 ---
 
-## 💡 Example Questions (Ask in Terminal)
 
-- "What is the gold price today?"
-- "Predict gold price for tomorrow"
-- "Is the gold price increasing?"
-- "What is the RSI?"
-- "Should I buy or sell gold?"
 
 ---
 
-## 🛠 How to Run the Project
 
-### Step 1: Create the dataset
-```bash
-python create_sample_data.py
